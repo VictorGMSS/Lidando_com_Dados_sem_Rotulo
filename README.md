@@ -135,12 +135,13 @@ streamlit run app.py
 A aplicação abrirá automaticamente no seu navegador (geralmente em `http://localhost:8501`), onde você poderá carregar uma nova base de dados, aplicar automaticamente o `encoder.pkl` e o `scaler.pkl`, visualizar a distribuição dos clusters gerados e baixar os resultados.
 
 ---
+## 📌 Fonte dos Dados
+
+Os dados utilizados neste projeto foram obtidos a partir do repositório do curso (`dados_mkt.csv`).
+---
 ## 👨‍💻 Informações pessoais
 
 Victor Gabriel Martins e Souza
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/victorgms](https://www.linkedin.com/in/victorgms)
 * 🌐 Portfólio: [https://verxstech.vercel.app](https://verxstech.vercel.app)
-## 📌 Fonte dos Dados
-
-Os dados utilizados neste projeto foram obtidos a partir do repositório do curso (`dados_mkt.csv`).
