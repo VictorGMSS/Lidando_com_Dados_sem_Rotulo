@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WdUbi6qiaO8QAXutEhXcqixruGxtmjZ-)
 
-Projeto prático desenvolvido durante o curso **"Clusterização: Lidando com dados sem rótulo"**. O objetivo deste repositório é explorar técnicas de aprendizado não supervisionado utilizando o algoritmo **K-Means** para identificar padrões de comportamento e agrupar perfis de usuários a partir de seus interesses e características demográficas, culminando na criação de uma aplicação web interativa com **Streamlit** para classificação em tempo real.
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é explorar técnicas de aprendizado não supervisionado utilizando o algoritmo **K-Means** para identificar padrões de comportamento e agrupar perfis de usuários a partir de seus interesses e características demográficas, culminando na criação de uma aplicação web interativa com **Streamlit** para classificação em tempo real.
 
 Trabalhar com dados sem rótulo (*unsupervised learning*) exige estratégias específicas para preparar as variáveis, definir o número ideal de grupos e validar a qualidade das divisões criadas. Neste projeto, analisamos uma base de dados de marketing (`dados_mkt.csv`) contendo **12.992 registros** e **27 atributos**, incluindo informações demográficas (sexo, idade, número de amigos) e frequência de menções a diversos interesses (esportes, música, moda, marcas e consumo).
 
